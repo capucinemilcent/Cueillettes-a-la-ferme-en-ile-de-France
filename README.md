@@ -43,7 +43,7 @@ Nous pouvons voir les différentes cultures produites en Ile-de-France.
 
 - Pour étudier mieux ce sujet des cueillettes en ferme en Ile-de-France, j'ai souhaité utilisé mon jeu de données que j'ai exporté au format csv et l'utiliser dans une application "OpenRefine". Par ce logiciel, j'ai pu travailler mes données, en établissant des filtres et de la réorganisation. Par ce biais, j'ai pu avoir une meilleure lecture des données présente dans mon jeu de données. 
 
-Voici ci-dessous mon historique sur OpenRefine. 
+Voici ci-dessous mon historique sur OpenRefine. J'ai exporté mes données au format json. 
 
 ````sparql
 [
@@ -316,23 +316,4 @@ Voici ci-dessous mon historique sur OpenRefine.
   }
 ]
 ````
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-For more details see GitHub Flavored Markdown.
-
-Jekyll Themes
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your repository settings. The name of this theme is saved in the Jekyll _config.yml configuration file.
-
 
