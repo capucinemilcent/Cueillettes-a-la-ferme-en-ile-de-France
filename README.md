@@ -17,9 +17,7 @@ Nous pouvons y voir le répertoire des fermes en Ile de France.
 
 Les fermes sont représentées par des logos de pommes et d'aubergine dans une bulle verte d'emplacement.
 
-- 
 
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
