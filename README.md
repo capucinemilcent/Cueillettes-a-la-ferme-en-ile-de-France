@@ -31,18 +31,22 @@ Nous pouvons voir qu'une très large partie de l'Ile de France est dans cete bul
 
 Nous pouvons voir tous les types de productions qui sont cultivées dans la région et et nous pouvons voir également le pourcentage de production par catégories comme les oléagineux, les fruits secs ou encore les céréales. 
 
+- A présent, nous allons rester toujours sur le même jeu de données, voir le pourcentage d'agriculture biologique dans les fermes en Ile-de-France.
+
+<iframe src="https://data.opendatasoft.com/chart/embed/?dataChart=eyJ0aW1lc2NhbGUiOiIiLCJxdWVyaWVzIjpbeyJjaGFydHMiOlt7ImFsaWduTW9udGgiOnRydWUsInR5cGUiOiJiYXIiLCJmdW5jIjoiQ09VTlQiLCJ5QXhpcyI6ImlkX2RlcGFydGVtZW50Iiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiIzE0MkU3QiIsInBvc2l0aW9uIjoiY2VudGVyIn0seyJhbGlnbk1vbnRoIjp0cnVlLCJ0eXBlIjoiY29sdW1uIiwiZnVuYyI6IkFWRyIsInlBeGlzIjoic3VyZmFjZXNfY2VydGlmaWVlc19iaW8iLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjQ0UwMDM3In1dLCJjb25maWciOnsiZGF0YXNldCI6ImFncmljdWx0dXJlX2Jpb18yMDA4LTIwMTFfLV9wcm9kdWN0aW9uc192ZWdldGFsZXNfLV9zdXJmYWNlc19wYXJfZGVwYXJ0ZW1lbnRAZGF0YWlsZWRlZnJhbmNlIiwib3B0aW9ucyI6e319LCJ4QXhpcyI6ImN1bHR1cmVzIiwibWF4cG9pbnRzIjoyMDAsInNvcnQiOiJzZXJpZTEtMSIsImNhdGVnb3J5Q29sb3JzIjp7Ijc3IjoiIzVEOUZBMyIsIjc4IjoiIzYxOUZDOCIsIjkxIjoiIzI2Mzg5MiIsIjk0IjoiIzE5NjMwQSIsIjk1IjoiIzYxOUZDOCJ9LCJzZXJpZXNCcmVha2Rvd24iOiIiLCJzZXJpZXNCcmVha2Rvd25UaW1lc2NhbGUiOiIifV0sImFsaWduTW9udGgiOnRydWUsImRpc3BsYXlMZWdlbmQiOnRydWV9&static=false&datasetcard=false" width="600" height="400" frameborder="0"></iframe>
+
+Nous pouvons voir les différentes cultures produites en Ile-de-France. 
+
 - Nous allons ensuite continuer à étudier ce jeu de données mais plus en précision. 
 
 Nous y voyons la production de toutes les catégories des aliments, selon l'année et selon si l'agriculture est biologique ou non. 
 
 <iframe src="https://data.opendatasoft.com/chart/embed/?dataChart=eyJ0aW1lc2NhbGUiOiIiLCJxdWVyaWVzIjpbeyJjaGFydHMiOlt7ImFsaWduTW9udGgiOnRydWUsInR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiQVZHIiwieUF4aXMiOiJzdXJmYWNlc19jZXJ0aWZpZWVzX2JpbyIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6InJhbmdlLWN1c3RvbSJ9XSwiY29uZmlnIjp7ImRhdGFzZXQiOiJhZ3JpY3VsdHVyZV9iaW9fMjAwOC0yMDExXy1fcHJvZHVjdGlvbnNfdmVnZXRhbGVzXy1fc3VyZmFjZXNfcGFyX2RlcGFydGVtZW50QGRhdGFpbGVkZWZyYW5jZSIsIm9wdGlvbnMiOnt9fSwieEF4aXMiOiJhbm5lZSIsIm1heHBvaW50cyI6NTAsInNvcnQiOiIiLCJzZXJpZXNCcmVha2Rvd24iOiJjdWx0dXJlcyJ9XSwiYWxpZ25Nb250aCI6dHJ1ZSwiZGlzcGxheUxlZ2VuZCI6dHJ1ZX0%3D&static=false&datasetcard=false" width="600" height="400" frameborder="0"></iframe>
 
+## Mon analyse des cueillettes à la ferme en Ile-de-France en comparant avec l'agriculture biologique de l'IDF a été réfléchi pour faire une représentation des cultures franciliennes, d'en voir les parcelles biologiques, et si l'on souhaite s'y rendre pour faire de la cueillette en IDF. 
 
-- Nous allons ensuite toujours sur le même jeu de données, voir le pourcentage d'agriculture biologique dans les fermes en Ile-de-France.
+Je voulais établir un étendu des cultures en IDF. 
 
-<iframe src="https://data.opendatasoft.com/chart/embed/?dataChart=eyJ0aW1lc2NhbGUiOiIiLCJxdWVyaWVzIjpbeyJjaGFydHMiOlt7ImFsaWduTW9udGgiOnRydWUsInR5cGUiOiJiYXIiLCJmdW5jIjoiQ09VTlQiLCJ5QXhpcyI6ImlkX2RlcGFydGVtZW50Iiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiIzE0MkU3QiIsInBvc2l0aW9uIjoiY2VudGVyIn0seyJhbGlnbk1vbnRoIjp0cnVlLCJ0eXBlIjoiY29sdW1uIiwiZnVuYyI6IkFWRyIsInlBeGlzIjoic3VyZmFjZXNfY2VydGlmaWVlc19iaW8iLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjQ0UwMDM3In1dLCJjb25maWciOnsiZGF0YXNldCI6ImFncmljdWx0dXJlX2Jpb18yMDA4LTIwMTFfLV9wcm9kdWN0aW9uc192ZWdldGFsZXNfLV9zdXJmYWNlc19wYXJfZGVwYXJ0ZW1lbnRAZGF0YWlsZWRlZnJhbmNlIiwib3B0aW9ucyI6e319LCJ4QXhpcyI6ImN1bHR1cmVzIiwibWF4cG9pbnRzIjoyMDAsInNvcnQiOiJzZXJpZTEtMSIsImNhdGVnb3J5Q29sb3JzIjp7Ijc3IjoiIzVEOUZBMyIsIjc4IjoiIzYxOUZDOCIsIjkxIjoiIzI2Mzg5MiIsIjk0IjoiIzE5NjMwQSIsIjk1IjoiIzYxOUZDOCJ9LCJzZXJpZXNCcmVha2Rvd24iOiIiLCJzZXJpZXNCcmVha2Rvd25UaW1lc2NhbGUiOiIifV0sImFsaWduTW9udGgiOnRydWUsImRpc3BsYXlMZWdlbmQiOnRydWV9&static=false&datasetcard=false" width="600" height="400" frameborder="0"></iframe>
-
-Nous pouvons voir les différentes cultures produites en Ile-de-France. 
 
 - Pour étudier mieux ce sujet des cueillettes en ferme en Ile-de-France, j'ai souhaité utilisé mon jeu de données que j'ai exporté au format csv et l'utiliser dans une application "OpenRefine". Par ce logiciel, j'ai pu travailler mes données, en établissant des filtres et de la réorganisation. Par ce biais, j'ai pu avoir une meilleure lecture des données présente dans mon jeu de données. 
 
