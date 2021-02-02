@@ -29,6 +29,12 @@ Nous pouvons voir qu'une très large partie de l'Ile de France est dans cete bul
 
 Nous pouvons voir un graphique ci-dessus visualisant les fermes selon leur code postale et leur siret.
 
+- Ensuite, nous allons étudier le deuxième jeu de données : l'agriculture biologique en Ile-de-France. 
+
+<iframe src="https://data.opendatasoft.com/chart/embed/?dataChart=eyJ0aW1lc2NhbGUiOiIiLCJxdWVyaWVzIjpbeyJjaGFydHMiOlt7ImFsaWduTW9udGgiOnRydWUsInR5cGUiOiJwaWUiLCJmdW5jIjoiQ09VTlQiLCJ5QXhpcyI6ImlkX2RlcGFydGVtZW50Iiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoicmFuZ2UtY3VzdG9tIiwicG9zaXRpb24iOiJjZW50ZXIifV0sImNvbmZpZyI6eyJkYXRhc2V0IjoiYWdyaWN1bHR1cmVfYmlvXzIwMDgtMjAxMV8tX3Byb2R1Y3Rpb25zX3ZlZ2V0YWxlc18tX3N1cmZhY2VzX3Bhcl9kZXBhcnRlbWVudEBkYXRhaWxlZGVmcmFuY2UiLCJvcHRpb25zIjp7fX0sInhBeGlzIjoiY3VsdHVyZXMiLCJtYXhwb2ludHMiOjIwMCwic29ydCI6IiIsImNhdGVnb3J5Q29sb3JzIjp7Ijc3IjoiIzVEOUZBMyIsIjc4IjoiIzYxOUZDOCIsIjkxIjoiIzI2Mzg5MiIsIjk0IjoiIzE5NjMwQSIsIjk1IjoiIzYxOUZDOCJ9LCJzZXJpZXNCcmVha2Rvd24iOiIiLCJzZXJpZXNCcmVha2Rvd25UaW1lc2NhbGUiOiIifV0sImFsaWduTW9udGgiOnRydWUsImRpc3BsYXlMZWdlbmQiOnRydWV9&static=false&datasetcard=false" width="400" height="300" frameborder="0"></iframe>
+
+Nous pouvons voir tous les types de productions qui sont cultivées dans la région et et nous pouvons voir également le pourcentage de production par catégories comme les oléagineux, les fruits secs ou encore les céréales. 
+
 # Header 1
 ## Header 2
 ### Header 3
