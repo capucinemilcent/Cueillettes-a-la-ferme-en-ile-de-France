@@ -35,6 +35,10 @@ Nous pouvons voir un graphique ci-dessus visualisant les fermes selon leur code 
 
 Nous pouvons voir tous les types de productions qui sont cultivées dans la région et et nous pouvons voir également le pourcentage de production par catégories comme les oléagineux, les fruits secs ou encore les céréales. 
 
+- Nous allons ensuite toujours sur le même jeu de données, voir le pourcentage d'agriculture biologique dans les fermes en Ile-de-France.
+
+<iframe src="https://data.opendatasoft.com/chart/embed/?dataChart=eyJ0aW1lc2NhbGUiOiIiLCJxdWVyaWVzIjpbeyJjaGFydHMiOlt7ImFsaWduTW9udGgiOnRydWUsInR5cGUiOiJiYXIiLCJmdW5jIjoiQ09VTlQiLCJ5QXhpcyI6ImlkX2RlcGFydGVtZW50Iiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiIzE0MkU3QiIsInBvc2l0aW9uIjoiY2VudGVyIn0seyJhbGlnbk1vbnRoIjp0cnVlLCJ0eXBlIjoiY29sdW1uIiwiZnVuYyI6IkFWRyIsInlBeGlzIjoic3VyZmFjZXNfY2VydGlmaWVlc19iaW8iLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjQ0UwMDM3In1dLCJjb25maWciOnsiZGF0YXNldCI6ImFncmljdWx0dXJlX2Jpb18yMDA4LTIwMTFfLV9wcm9kdWN0aW9uc192ZWdldGFsZXNfLV9zdXJmYWNlc19wYXJfZGVwYXJ0ZW1lbnRAZGF0YWlsZWRlZnJhbmNlIiwib3B0aW9ucyI6e319LCJ4QXhpcyI6ImN1bHR1cmVzIiwibWF4cG9pbnRzIjoyMDAsInNvcnQiOiJzZXJpZTEtMSIsImNhdGVnb3J5Q29sb3JzIjp7Ijc3IjoiIzVEOUZBMyIsIjc4IjoiIzYxOUZDOCIsIjkxIjoiIzI2Mzg5MiIsIjk0IjoiIzE5NjMwQSIsIjk1IjoiIzYxOUZDOCJ9LCJzZXJpZXNCcmVha2Rvd24iOiIiLCJzZXJpZXNCcmVha2Rvd25UaW1lc2NhbGUiOiIifV0sImFsaWduTW9udGgiOnRydWUsImRpc3BsYXlMZWdlbmQiOnRydWV9&static=false&datasetcard=false" width="600" height="400" frameborder="0"></iframe>
+
 # Header 1
 ## Header 2
 ### Header 3
