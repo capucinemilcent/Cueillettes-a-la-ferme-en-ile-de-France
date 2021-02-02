@@ -21,7 +21,12 @@ J'ai mis toutes les fermes dans une bulle les englobant toutes. Cela est pour mi
 
 Nous pouvons voir qu'une très large partie de l'Ile de France est dans cete bulle géographique. 
 
+- Nous allons rester sur ce jeu de données et essayer de comparer les données existantes. 
 
+
+<iframe src="https://data.opendatasoft.com/explore/embed/dataset/cueillettes-a-la-ferme-en-ile-de-france@datailedefrance/analyze/?geofilter.distance=48.855679899769,2.3345947265625,37518.354812851896&location=9,48.8358,2.55981&basemap=jawg.streets&dataChart=eyJxdWVyaWVzIjpbeyJjb25maWciOnsiZGF0YXNldCI6ImN1ZWlsbGV0dGVzLWEtbGEtZmVybWUtZW4taWxlLWRlLWZyYW5jZUBkYXRhaWxlZGVmcmFuY2UiLCJvcHRpb25zIjp7Imdlb2ZpbHRlci5kaXN0YW5jZSI6IjQ4Ljg1NTY3OTg5OTc2OSwyLjMzNDU5NDcyNjU2MjUsMzc1MTguMzU0ODEyODUxODk2In19LCJjaGFydHMiOlt7ImFsaWduTW9udGgiOnRydWUsInR5cGUiOiJhcmVhc3BsaW5lIiwiZnVuYyI6IkNPVU5UIiwieUF4aXMiOjYsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6InJhbmdlLWN1c3RvbSIsInBvc2l0aW9uIjoiY2VudGVyIn1dLCJ4QXhpcyI6ImNwIiwibWF4cG9pbnRzIjoyMDAsInNvcnQiOiIiLCJzZXJpZXNCcmVha2Rvd24iOiJzaXJldCIsInNlcmllc0JyZWFrZG93blRpbWVzY2FsZSI6IiIsInN0YWNrZWQiOiJwZXJjZW50In1dLCJ0aW1lc2NhbGUiOiIiLCJkaXNwbGF5TGVnZW5kIjp0cnVlLCJhbGlnbk1vbnRoIjp0cnVlfQ%3D%3D&static=false&datasetcard=false" width="400" height="300" frameborder="0"></iframe>
+
+Nous pouvons voir un graphique ci-dessus visualisant les fermes selon leur code postale et leur siret.
 
 # Header 1
 ## Header 2
