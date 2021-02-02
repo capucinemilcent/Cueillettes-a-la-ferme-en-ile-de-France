@@ -43,9 +43,10 @@ Nous y voyons la production de toutes les catégories des aliments, selon l'ann�
 
 <iframe src="https://data.opendatasoft.com/chart/embed/?dataChart=eyJ0aW1lc2NhbGUiOiIiLCJxdWVyaWVzIjpbeyJjaGFydHMiOlt7ImFsaWduTW9udGgiOnRydWUsInR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiQVZHIiwieUF4aXMiOiJzdXJmYWNlc19jZXJ0aWZpZWVzX2JpbyIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6InJhbmdlLWN1c3RvbSJ9XSwiY29uZmlnIjp7ImRhdGFzZXQiOiJhZ3JpY3VsdHVyZV9iaW9fMjAwOC0yMDExXy1fcHJvZHVjdGlvbnNfdmVnZXRhbGVzXy1fc3VyZmFjZXNfcGFyX2RlcGFydGVtZW50QGRhdGFpbGVkZWZyYW5jZSIsIm9wdGlvbnMiOnt9fSwieEF4aXMiOiJhbm5lZSIsIm1heHBvaW50cyI6NTAsInNvcnQiOiIiLCJzZXJpZXNCcmVha2Rvd24iOiJjdWx0dXJlcyJ9XSwiYWxpZ25Nb250aCI6dHJ1ZSwiZGlzcGxheUxlZ2VuZCI6dHJ1ZX0%3D&static=false&datasetcard=false" width="600" height="400" frameborder="0"></iframe>
 
+Je voulais établir un étendu des cultures en IDF. 
+
 ## Mon analyse des cueillettes à la ferme en Ile-de-France en comparant avec l'agriculture biologique de l'IDF a été réfléchi pour faire une représentation des cultures franciliennes, d'en voir les parcelles biologiques, et si l'on souhaite s'y rendre pour faire de la cueillette en IDF. 
 
-Je voulais établir un étendu des cultures en IDF. 
 
 
 - Pour étudier mieux ce sujet des cueillettes en ferme en Ile-de-France, j'ai souhaité utilisé mon jeu de données que j'ai exporté au format csv et l'utiliser dans une application "OpenRefine". Par ce logiciel, j'ai pu travailler mes données, en établissant des filtres et de la réorganisation. Par ce biais, j'ai pu avoir une meilleure lecture des données présente dans mon jeu de données. 
