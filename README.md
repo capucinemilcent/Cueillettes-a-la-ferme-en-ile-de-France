@@ -45,7 +45,7 @@ Nous y voyons la production de toutes les catégories des aliments, selon l'ann�
 
 Je voulais établir un étendu des cultures en IDF. 
 
-## Mon analyse des cueillettes à la ferme en Ile-de-France en comparant avec l'agriculture biologique de l'IDF a été réfléchi pour faire une représentation des cultures franciliennes, d'en voir les parcelles biologiques, et si l'on souhaite s'y rendre pour faire de la cueillette en IDF. 
+# Mon analyse des cueillettes à la ferme en Ile-de-France en comparant avec l'agriculture biologique de l'IDF a été réfléchi pour faire une représentation des cultures franciliennes, d'en voir les parcelles biologiques, et si l'on souhaite s'y rendre pour faire de la cueillette en IDF. 
 
 
 
