@@ -1,6 +1,7 @@
 # Cueillettes-a-la-ferme-en-ile-de-France 
 
-Cueillettes à la ferme en Île-de-France dans des agricultures biologiques
+
+### Cueillettes à la ferme en Île-de-France dans des agricultures biologiques
  
 
 Nous allons étudier la cueillette à la ferme en Ile de France. C'est un sujet original que je trouvais intéressant à étudier. Pour mettre en valeur et en comparaison ce jeu de données, nous allons le comparer avec l'agriculture biologique qui se trouve également en Ile de France. 
