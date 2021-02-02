@@ -10,6 +10,10 @@ Cela nous permettra de voir la récolte selon les fermes agricoles biologiques. 
 
 Est-ce que les fermes ouvertes à la cueillette sont répertoriées agriculture biologique ? 
 
+Voici le premier jeu de données : [Cueillettes à la ferme](https://data.opendatasoft.com/explore/dataset/cueillettes-a-la-ferme-en-ile-de-france%40datailedefrance/table/)
+
+Voici mon second jeu de données : [Agriculture biologique en IDF](https://data.opendatasoft.com/explore/dataset/agriculture_bio_2008-2011_-_productions_vegetales_-_surfaces_par_departement%40datailedefrance/table/?refine.cultures=Fruits&sort=-id_departement/)
+
 - Pour comprendre un peu plus notre principal jeu de données "cueillettes à la ferme en IDF", voici la carte des fermes.
 Nous pouvons y voir le répertoire des fermes en Ile de France. 
 
@@ -318,4 +322,3 @@ Voici ci-dessous mon historique sur OpenRefine. J'ai exporté mes données au fo
 ````
 
 
-[Link](https://data.opendatasoft.com/explore/dataset/cueillettes-a-la-ferme-en-ile-de-france%40datailedefrance/table/)
